@@ -1,8 +1,8 @@
 int main() {
     // Carta 1
     char estado1 = "A";
-    char codigo1[5] = "A01";
-    char cidade1[30] = "São Paulo";
+    char codigo1[] = "A01";
+    char cidade1[] = "São Paulo";
     int populacao1 = 12325000;
     float area1 = 1521.11;
     float pib1 = 699.28;
@@ -10,8 +10,8 @@ int main() {
 
     // Carta 2
     char estado2 = "B";
-    char codigo2[5] = "B02";
-    char cidade2[30] = "Rio de Janeiro";
+    char codigo2[] = "A02";
+    char cidade2[] = "Rio de Janeiro";
     int populacao2 = 678000;
     float area2 = 1200.25;
     float pib2 = 300.50;
