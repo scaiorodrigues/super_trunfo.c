@@ -1,6 +1,6 @@
 int main() {
     // Carta 1
-    char estado1 ="A";
+    char estado1 = "A";
     char codigo1[5] = "A01";
     char cidade1[30] = "São Paulo";
     int populacao1 = 12325000;
